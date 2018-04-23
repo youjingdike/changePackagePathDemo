@@ -1,0 +1,2 @@
+# changePackagePathDemo
+使用maven修改jar包路径的demo
